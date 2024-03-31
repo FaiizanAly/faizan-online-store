@@ -1,6 +1,6 @@
 # Faizan Online Store
 
-Welcome to the "Faizan Online Store"! 🛍️ This e-commerce website is a project created by a BCA Final Year student as part of their college coursework. The site is currently under maintenance and being developed using only HTML, CSS, and JavaScript.
+Welcome to the "Faizan Online Store"! 🛍️ This e-commerce website is a project created by a Faizan Ali (BCA Final Year Student Project) as part of their college coursework. The site is currently under maintenance and being developed using only HTML, CSS, and JavaScript.
 
 ## About
 
