@@ -1,25 +1,36 @@
 # Faizan Online Store
 
-Welcome to the "Faizan Online Store"! 🛍️ This e-commerce website is a project created by a Faizan Ali (BCA Final Year Student Project) as part of their college coursework. The site is currently under maintenance and being developed using only HTML, CSS, and JavaScript.
+An elegant and functional e-commerce website built as a final year BCA student project by Faizan Ali.
 
-## About
+**Live Demo:** [Explore the store here](https://faiizanaly.github.io/faizan-online-store/)
 
-This project aims to showcase the skills and knowledge acquired during the BCA program by creating a fully functional online store. It includes features such as:
-- Browse and view products
-- Add products to cart
-- User authentication (coming soon)
-- Checkout process (coming soon)
+---
 
-## Technologies Used
+##  About the Project
 
-- HTML
-- CSS
-- JavaScript
+The **Faizan Online Store** demonstrates foundational web development skills—handcrafted using only HTML, CSS, and JavaScript. It features a user-friendly interface, product browsing, and a shopping cart facility, with plans for future enhancements like authentication and checkout functionality.
 
-## Getting Started
+---
 
-To view the project locally, you can follow these steps:
+##  Key Features
 
-1. Clone this repository:
+- Browse and view products in a clean layout
+- Add products directly to the cart
+- Scalable design ready for next-gen enhancements
+- Built with simplicity and performance in mind
+
+---
+
+##  Technologies Used
+
+- **HTML5** for semantic markup  
+- **CSS3** for styling, layout, and visual effects  
+- **JavaScript** for interactivity and cart logic  
+
+---
+
+##  How to Run Locally
+
+1. Clone the repository:  
    ```bash
-   git clone https://github.com/faiizanaly/faizan-online-store.git
+   git clone https://github.com/FaiizanAly/faizan-online-store.git
